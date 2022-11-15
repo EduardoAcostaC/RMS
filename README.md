@@ -1,5 +1,5 @@
 # Robot Maker Simulator
-## Pagina Web
+## WebSite
 https://legendary-lokum-eae29e.netlify.app/
 ## Mission
 Be the first robot simulator, that allows you to build, deploy, test and program your robot.
